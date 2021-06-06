@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Julián!</h1>
-<h3 align="center">A passionate Data Scientist and professor</h3>
+<h1 align="center">Hi 👋, I'm Julián D. Miranda!</h1>
+<h3 align="center">Data Scientist | Machine Learning Scientist | Professor | Researcher | Cybersecurity specialist</h3>
 
-- 🔭 I’m currently working on [Tellurico](https://www.researchgate.net/publication/347679462_Proposal_for_a_System_Model_for_Offline_Seismic_Event_Detection_in_Colombia)
+- 🔭 Some of my projects:
+  -  **Tellurico:** development of a monitoring and warning system for seismic events – UPB, UFPS y SGC.
+     -  Technologies and methods: TensorFlow, Keras, PyTorch, ObsPy, Logistic Regression, SVM, DNN, data engineering.
+     -  [Proposal for a System Model for Offline Seismic Event Detection in Colombia](https://www.mdpi.com/1999-5903/12/12/231)
+     -  [Voting-based seismic data classification system using logistic regression models] (https://ieeexplore.ieee.org/document/8730280)
 
 - 👨‍💻 All of my projects are available at [https://github.com/juliandariomirandacalle](https://github.com/juliandariomirandacalle)
 
