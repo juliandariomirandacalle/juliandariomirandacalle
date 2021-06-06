@@ -12,7 +12,7 @@
      -  [Exploratory data analysis for cybersecurity](https://www.emerald.com/insight/content/doi/10.1108/WJE-11-2020-0560/full/html)
      -  [LSB Steganography Detection in Monochromatic Still Images using Artificial Neural Networks](https://www.researchgate.net/publication/340793392_LSB_Steganography_Detection_in_Monochromatic_Still_Images_using_Artificial_Neural_Networks)
 
-- Some of my public sessions:
+- 🎧 Some of my public sessions:
   - Introduction to NLP with Sentiment Analysis using real dataset! (DPhi): [Recorded session](https://www.youtube.com/watch?v=o1Bb7G4szQQ&t=2568s) | [Notebook](https://github.com/juliandariomirandacalle/NLP_Notebooks/blob/master/01-Introduction_NLP/W5_DS_NLP_student.ipynb) | [slides](https://github.com/juliandariomirandacalle/NLP_Notebooks/blob/master/01-Introduction_NLP/Introduction_NLP.pdf)
   - Exploring Cyber Security Attacks (DPhi): [Recorded session](https://www.youtube.com/watch?v=FisuZXJskz0&t=575s) | [Notebook](https://github.com/juliandariomirandacalle/DataScience_Cybersecurity/blob/master/01-EDA_Cyber_Attacks/W2_DS_Cybersecurity_student.ipynb) | [Slides](https://github.com/juliandariomirandacalle/DataScience_Cybersecurity/blob/master/01-EDA_Cyber_Attacks/Cybersecurity_DS.pdf)
   - Introduction to Data Visualization and Dive Deep into Matplotlib and Seaborn (DPhi): [Recorded session](https://www.youtube.com/watch?v=vNKU81ZfkKo&t=2373s) | [Notebook](https://github.com/juliandariomirandacalle/Visualization_Bootcamp/blob/main/Visualization_NB.ipynb) | [Slides](https://github.com/juliandariomirandacalle/Visualization_Bootcamp/blob/main/Visualization_DPhi.pdf)
