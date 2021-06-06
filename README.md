@@ -5,15 +5,14 @@
   -  **Tellurico:** development of a monitoring and warning system for seismic events – UPB, UFPS y SGC.
      -  Technologies and methods: TensorFlow, Keras, PyTorch, ObsPy, Logistic Regression, SVM, DNN, data engineering.
      -  [Proposal for a System Model for Offline Seismic Event Detection in Colombia](https://www.mdpi.com/1999-5903/12/12/231)
-     -  [Voting-based seismic data classification system using logistic regression models] (https://ieeexplore.ieee.org/document/8730280)
+     -  [Voting-based seismic data classification system using logistic regression models](https://ieeexplore.ieee.org/document/8730280)
+  -  **Stegian:** Artificial Intelligence Applied to Digital Forensic Analysis – UPB.
+     -  Technologies and methods: TensorFlow, Keras, PyTorch, ANN, CNN, DNN, LSTM.
+     -  [Artificial Intelligence for Forensic Analysis](http://editorial.urosario.edu.co/pub/media/hipertexto/rosario/anexos/proyecto-cibsi/02_F5_ok.pdf)
+     -  [Exploratory data analysis for cybersecurity](https://www.emerald.com/insight/content/doi/10.1108/WJE-11-2020-0560/full/html)
+     -  [LSB Steganography Detection in Monochromatic Still Images using Artificial Neural Networks](https://www.researchgate.net/publication/340793392_LSB_Steganography_Detection_in_Monochromatic_Still_Images_using_Artificial_Neural_Networks)
 
-- 👨‍💻 All of my projects are available at [https://github.com/juliandariomirandacalle](https://github.com/juliandariomirandacalle)
-
-- 📝 I regularly write scientific articles on [Journals and conferences](Journals and conferences)
-
-- 📫 How to reach me **juliandariomiranda@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/juliandariomiranda/](https://www.linkedin.com/in/juliandariomiranda/)
+- 📫 How to reach me [https://www.linkedin.com/in/juliandariomiranda/](https://www.linkedin.com/in/juliandariomiranda/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
