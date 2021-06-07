@@ -23,15 +23,15 @@
 <h3 align="left">Highlighted public repositories:</h3>
 
 <a href="https://github.com/juliandariomirandacalle/NLP_Notebooks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=NLP_Notebooks&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=NLP_Notebooks&theme=vue" />
 </a>
 
 <a href="https://github.com/juliandariomirandacalle/Visualization_Bootcamp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=Visualization_Bootcamp&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=Visualization_Bootcamp&theme=vue" />
 </a>
 
 <a href="https://github.com/juliandariomirandacalle/DataScience_Cybersecurity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=DataScience_Cybersecurity&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=DataScience_Cybersecurity&theme=vue" />
 </a>
 
 <h3 align="left">Connect with me:</h3>
