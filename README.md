@@ -20,6 +20,8 @@
 
 - 📫 How to reach me [https://www.linkedin.com/in/juliandariomiranda/](https://www.linkedin.com/in/juliandariomiranda/)
 
+<h3 align="left">Highlighted public repositories:</h3>
+
 <a href="https://github.com/juliandariomirandacalle/NLP_Notebooks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=NLP_Notebooks&theme=vue" />
 </a>
