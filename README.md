@@ -11,6 +11,7 @@
      -  [Artificial Intelligence for Forensic Analysis](http://editorial.urosario.edu.co/pub/media/hipertexto/rosario/anexos/proyecto-cibsi/02_F5_ok.pdf)
      -  [Exploratory data analysis for cybersecurity](https://www.emerald.com/insight/content/doi/10.1108/WJE-11-2020-0560/full/html)
      -  [LSB Steganography Detection in Monochromatic Still Images using Artificial Neural Networks](https://www.researchgate.net/publication/340793392_LSB_Steganography_Detection_in_Monochromatic_Still_Images_using_Artificial_Neural_Networks)
+  - [Computational Measuring Approach for the Identification of Probable Intestinal System Pathologies through the Human Iris Parameters](http://dx.doi.org/10.1109/STSIVA.2019.8730274)
 
 - 🎧 Some of my public sessions:
   - Introduction to NLP with Sentiment Analysis using real dataset! (DPhi): [Recorded session](https://www.youtube.com/watch?v=o1Bb7G4szQQ&t=2568s) | [Notebook](https://github.com/juliandariomirandacalle/NLP_Notebooks/blob/master/01-Introduction_NLP/W5_DS_NLP_student.ipynb) | [slides](https://github.com/juliandariomirandacalle/NLP_Notebooks/blob/master/01-Introduction_NLP/Introduction_NLP.pdf)
