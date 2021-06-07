@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julián D. Miranda!</h1>
 <h3 align="center">Data Scientist | Machine Learning Scientist | Professor | Researcher | Cybersecurity specialist</h3>
 
-- 🔭 Some of my projects:
+- 💻 Some of my projects:
   -  **Tellurico:** development of a monitoring and warning system for seismic events – UPB, UFPS y SGC.
      -  Technologies and methods: TensorFlow, Keras, PyTorch, ObsPy, Logistic Regression, SVM, DNN, data engineering.
      -  [Proposal for a System Model for Offline Seismic Event Detection in Colombia](https://www.mdpi.com/1999-5903/12/12/231)
