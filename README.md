@@ -20,6 +20,10 @@
 
 - 📫 How to reach me [https://www.linkedin.com/in/juliandariomiranda/](https://www.linkedin.com/in/juliandariomiranda/)
 
+<a href="https://github.com/juliandariomirandacalle/NLP_Notebooks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=NLP_Notebooks&theme=vue" />
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juliandariomiranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliandariomiranda" height="30" width="40" /></a>
