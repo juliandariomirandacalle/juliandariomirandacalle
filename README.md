@@ -23,11 +23,11 @@
 <h3 align="left">Highlighted public repositories:</h3>
 
 <a href="https://github.com/juliandariomirandacalle/NLP_Notebooks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=NLP_Notebooks&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=NLP_Notebooks&theme=default" />
 </a>
 
 <a href="https://github.com/juliandariomirandacalle/Visualization_Bootcamp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=Visualization_Bootcamp&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=Visualization_Bootcamp&theme=buefy" />
 </a>
 
 <a href="https://github.com/juliandariomirandacalle/DataScience_Cybersecurity">
