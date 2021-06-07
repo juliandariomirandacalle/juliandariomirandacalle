@@ -27,11 +27,11 @@
 </a>
 
 <a href="https://github.com/juliandariomirandacalle/Visualization_Bootcamp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=Visualization_Bootcamp&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=Visualization_Bootcamp&theme=default" />
 </a>
 
 <a href="https://github.com/juliandariomirandacalle/DataScience_Cybersecurity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=DataScience_Cybersecurity&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliandariomirandacalle&repo=DataScience_Cybersecurity&theme=default" />
 </a>
 
 <h3 align="left">Connect with me:</h3>
