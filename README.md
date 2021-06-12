@@ -4,7 +4,8 @@
 - 💻 Some of my projects:
   -  **Tellurico:** development of a monitoring and warning system for seismic events – UPB, UFPS y SGC.
      -  Technologies and methods: TensorFlow, Keras, PyTorch, ObsPy, Logistic Regression, SVM, DNN, data engineering.
-     -  [Proposal for a System Model for Offline Seismic Event Detection in Colombia](https://www.mdpi.com/1999-5903/12/12/231)
+     -  Repository link: [Tellurico UPB](https://github.com/Tellurico-UPB)
+        -  [Proposal for a System Model for Offline Seismic Event Detection in Colombia](https://www.mdpi.com/1999-5903/12/12/231)
      -  [Voting-based seismic data classification system using logistic regression models](https://ieeexplore.ieee.org/document/8730280)
   -  **Stegian:** Artificial Intelligence Applied to Digital Forensic Analysis – UPB.
      -  Technologies and methods: TensorFlow, Keras, PyTorch, ANN, CNN, DNN, LSTM.
