@@ -5,14 +5,16 @@
   -  **Tellurico:** development of a monitoring and warning system for seismic events – UPB, UFPS y SGC.
      -  Technologies and methods: TensorFlow, Keras, PyTorch, ObsPy, Logistic Regression, SVM, DNN, data engineering.
      -  Repository link: [Tellurico UPB](https://github.com/Tellurico-UPB)
+     -  Research papers/publications:
         -  [Proposal for a System Model for Offline Seismic Event Detection in Colombia](https://www.mdpi.com/1999-5903/12/12/231)
-     -  [Voting-based seismic data classification system using logistic regression models](https://ieeexplore.ieee.org/document/8730280)
+        -  [Voting-based seismic data classification system using logistic regression models](https://ieeexplore.ieee.org/document/8730280)
   -  **Stegian:** Artificial Intelligence Applied to Digital Forensic Analysis – UPB.
      -  Technologies and methods: TensorFlow, Keras, PyTorch, ANN, CNN, DNN, LSTM.
-     -  [Artificial Intelligence for Forensic Analysis](http://editorial.urosario.edu.co/pub/media/hipertexto/rosario/anexos/proyecto-cibsi/02_F5_ok.pdf)
-     -  [Exploratory data analysis for cybersecurity](https://www.emerald.com/insight/content/doi/10.1108/WJE-11-2020-0560/full/html)
-     -  [Steganalysis for still images with LSB Steganography - Features dataset](https://doi.org/10.21227/GS67-YN65)
-     -  [LSB Steganography Detection in Monochromatic Still Images using Artificial Neural Networks](https://www.researchgate.net/publication/340793392_LSB_Steganography_Detection_in_Monochromatic_Still_Images_using_Artificial_Neural_Networks)
+     -  Research papers/publications:
+        -  [Artificial Intelligence for Forensic Analysis](http://editorial.urosario.edu.co/pub/media/hipertexto/rosario/anexos/proyecto-cibsi/02_F5_ok.pdf)
+        -  [Exploratory data analysis for cybersecurity](https://www.emerald.com/insight/content/doi/10.1108/WJE-11-2020-0560/full/html)
+        -  [Steganalysis for still images with LSB Steganography - Features dataset](https://doi.org/10.21227/GS67-YN65)
+        -  [LSB Steganography Detection in Monochromatic Still Images using Artificial Neural Networks](https://www.researchgate.net/publication/340793392_LSB_Steganography_Detection_in_Monochromatic_Still_Images_using_Artificial_Neural_Networks)
   - [Computational Measuring Approach for the Identification of Probable Intestinal System Pathologies through the Human Iris Parameters](http://dx.doi.org/10.1109/STSIVA.2019.8730274)
   - [Improved median spatial filtering algorithm: A reduced temporal complexity approach](http://dx.doi.org/10.1109/STSIVA.2016.7743311)
 
