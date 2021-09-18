@@ -14,7 +14,7 @@
         -  [Artificial Intelligence for Forensic Analysis](http://editorial.urosario.edu.co/pub/media/hipertexto/rosario/anexos/proyecto-cibsi/02_F5_ok.pdf) (in Spanish)
         -  [Exploratory data analysis for cybersecurity](https://www.emerald.com/insight/content/doi/10.1108/WJE-11-2020-0560/full/html)
         -  [Steganalysis for still images with LSB Steganography - Features dataset](https://doi.org/10.21227/GS67-YN65)
-        -  [LSB Steganography Detection in Monochromatic Still Images using Artificial Neural Networks](https://www.researchgate.net/publication/340793392_LSB_Steganography_Detection_in_Monochromatic_Still_Images_using_Artificial_Neural_Networks)
+        -  [LSB Steganography Detection in Monochromatic Still Images using Artificial Neural Networks](https://link.springer.com/article/10.1007%2Fs11042-021-11527-2)
   - [Computational Measuring Approach for the Identification of Probable Intestinal System Pathologies through the Human Iris Parameters](http://dx.doi.org/10.1109/STSIVA.2019.8730274)
   - [Improved median spatial filtering algorithm: A reduced temporal complexity approach](http://dx.doi.org/10.1109/STSIVA.2016.7743311)
 
